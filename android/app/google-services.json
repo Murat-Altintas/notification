@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "920862515066",
+    "firebase_url": "https://social-network-d3007.firebaseio.com",
+    "project_id": "social-network-d3007",
+    "storage_bucket": "social-network-d3007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920862515066:android:663f5138b9d412ea3580c3",
+        "android_client_info": {
+          "package_name": "com.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920862515066-s8k7gq4uoudb9rb2b241rlo1pdjbi0jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJvF5fe3gJBbS2iegJrYf6BZaFdA7dq5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920862515066-s8k7gq4uoudb9rb2b241rlo1pdjbi0jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
